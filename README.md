@@ -1,4 +1,4 @@
-# Monarch Industries | Near Earth Object (NEO) Risk Scorer
+# Monarch | Near Earth Object (NEO) Risk Scorer
 
 An end-to-end Machine Learning pipeline utilizing XGBoost to predict asteroid threat index metrics directly from static, geometric orbital path elements, leveraging real-time NASA NeoWs and JPL database APIs.
 
