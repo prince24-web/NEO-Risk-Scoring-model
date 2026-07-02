@@ -1,0 +1,17 @@
+# Database file (very large)
+neo_data.db
+
+# Sensitive environment files
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
